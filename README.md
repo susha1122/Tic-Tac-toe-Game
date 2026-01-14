@@ -7,7 +7,7 @@ This project demonstrates core web development concepts such as DOM manipulation
 
 ## 🖼️ Preview
 
-![Tic Tac Toe Game UI](./screenshot.png)
+![Tic Tac Toe Game UI](./preview.png)
 
 > *Clean UI with responsive square buttons and smooth gameplay.*
 
@@ -70,7 +70,7 @@ const winningPatterns = [
   [3, 4, 5],
   [6, 7, 8],
 ];
-
+```
 ---
 
 ## ▶️ How to Run the Project
