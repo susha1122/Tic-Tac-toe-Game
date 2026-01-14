@@ -41,6 +41,7 @@ tic-tac-toe/
 ├── style.css      # Styling and layout
 ├── script.js      # Game logic
 └── README.md      # Project documentation
+```
 
 ---
 
